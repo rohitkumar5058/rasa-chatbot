@@ -1,0 +1,33 @@
+actions:
+- action_top_world
+- utter_goodbye
+- utter_greet
+- utter_rephrase
+- utter_get_started
+entities:
+- CARDINAL
+- case_type
+intents:
+- get_started
+- greet
+- top_world
+- goodbye
+responses:
+  utter_get_started:
+  - text: Hello, I am a demo bot. I can provide you data related information regarding COVID-19.
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Bye.
+  utter_greet:
+  - text: Hello, how can I help you?
+  utter_rephrase:
+  - text: Can you please rephrase?
+  - text: Sorry, I didn't get that. Can you rephrase?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 120
+slots:
+  CARDINAL:
+    type: text
+  case_type:
+    type: text
