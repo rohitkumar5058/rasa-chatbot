@@ -1,0 +1,114 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- jop
+- hi friend
+- hi there it's me
+- good evening
+- good afternoon
+- HI
+- Hello?
+
+## intent:goodbye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+- Good Bye!
+
+## intent:top_world
+- display top 5 countries as per [confirmed](case_type) cases
+- display top 50 countries as per [confirmed](case_type) cases
+- Get me top 5 countries ad per [confirmed](case_type) cases
+- top 3 countries as per [confirmed](case_type) cases
+- top 4 countries as per [confirmed](case_type) cases
+- display the list of top 20 countries as per [recovered](case_type) cases
+- top 10 countries as per [recovered](case_type) cases
+- top 10 countries as per [recovery](case_type)
+- display the list of top 20 countries as per [recovery](case_type)
+- get me top 6 countries as per [recovered](case_type) cases
+- top 20 countries with [recovered](case_type) cases
+- top 10 countries with [death](case_type) cases
+- top 10 countries with [deceased](case_type) cases
+- top 5 countries as per [deceased](case_type)
+- get me top 5 conuntries as per [deceased](case_type) cases
+- top 5 countries with [death](case_type) cases
+- top 15 countries with [deaths](case_type)
+- top 3 countries as per [deaths](case_type)
+
